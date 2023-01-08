@@ -95,7 +95,7 @@ plt.show()
 
 
     
-![png](output_4_0.png)
+![png](img/output_4_0.png)
     
 
 
@@ -311,7 +311,7 @@ plt.show()
 
 
     
-![png](output_8_0.png)
+![png](img/output_8_0.png)
     
 
 
@@ -538,7 +538,7 @@ plt.show()
 
 
     
-![png](output_11_0.png)
+![png](img/output_11_0.png)
     
 
 
@@ -593,7 +593,7 @@ plt.show()
 
 
     
-![png](output_13_0.png)
+![png](img/output_13_0.png)
     
 
 
@@ -645,7 +645,7 @@ plt.show()
 
 
     
-![png](output_15_0.png)
+![png](img/output_15_0.png)
     
 
 
@@ -700,7 +700,7 @@ plt.show()
 
 
     
-![png](output_17_0.png)
+![png](img/output_17_0.png)
     
 
 
@@ -831,7 +831,7 @@ silhouetteAnalysis(data1)
 
 
     
-![png](output_21_1.png)
+![png](img/output_21_1.png)
     
 
 
@@ -840,7 +840,7 @@ silhouetteAnalysis(data1)
 
 
     
-![png](output_21_3.png)
+![png](img/output_21_3.png)
     
 
 
@@ -849,7 +849,7 @@ silhouetteAnalysis(data1)
 
 
     
-![png](output_21_5.png)
+![png](img/output_21_5.png)
     
 
 
@@ -858,7 +858,7 @@ silhouetteAnalysis(data1)
 
 
     
-![png](output_21_7.png)
+![png](img/output_21_7.png)
     
 
 
@@ -867,7 +867,7 @@ silhouetteAnalysis(data1)
 
 
     
-![png](output_21_9.png)
+![png](img/output_21_9.png)
     
 
 
@@ -883,7 +883,7 @@ silhouetteAnalysis(data2)
 
 
     
-![png](output_23_1.png)
+![png](img/output_23_1.png)
     
 
 
@@ -892,7 +892,7 @@ silhouetteAnalysis(data2)
 
 
     
-![png](output_23_3.png)
+![png](img/output_23_3.png)
     
 
 
@@ -901,7 +901,7 @@ silhouetteAnalysis(data2)
 
 
     
-![png](output_23_5.png)
+![png](img/output_23_5.png)
     
 
 
@@ -910,7 +910,7 @@ silhouetteAnalysis(data2)
 
 
     
-![png](output_23_7.png)
+![png](img/output_23_7.png)
     
 
 
@@ -919,7 +919,7 @@ silhouetteAnalysis(data2)
 
 
     
-![png](output_23_9.png)
+![png](img/output_23_9.png)
     
 
 
@@ -990,6 +990,6 @@ plot_dbscan(db,data2,n_samples2)
 
 
     
-![png](output_28_1.png)
+![png](img/output_28_1.png)
     
 
